@@ -1,5 +1,5 @@
 # Simple Robotic Dog Design
-
+……………
 ## Project Overview
 In this project, I designed a simple robotic dog with four legs. The purpose of this project is to understand the basic mechanical design of a quadruped robot and learn how the robot can stand and move.
 
